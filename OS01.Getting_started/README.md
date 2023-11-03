@@ -1,20 +1,20 @@
 # What is an OS?
 - Due to [Wikipedia](https://en.wikipedia.org/wiki/Operating_system) an operating system is system software that manages computer hardware and software resources and provides common services for computer programs
 ```
-                                            ________________
-                                            |__Human user__|
-                                              |        |
-                      ________________________|_       |
-                      |__Application software__|       |
-                                  |                    |
-                      ____________|____________________|________
-                      |_____________Operating system___________|
-                                        |                |
-                          ______________|____________    |
-                          |__Other system software__|    |
-                                                    |    |
-                                                  __|____|______
-                                                  |__Hardware__|
+                        ________________
+                        |__Human user__|
+                          |        |
+  ________________________|_       |
+  |__Application software__|       |
+              |                    |
+  ____________|____________________|________
+  |_____________Operating system___________|
+                    |                |
+      ______________|____________    |
+      |__Other system software__|    |
+                                |    |
+                              __|____|______
+                              |__Hardware__|
 
 ```
 <p style="text-align: center;"><em>The diagram shows how a computer works</em></p>
